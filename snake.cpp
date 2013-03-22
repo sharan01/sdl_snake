@@ -90,7 +90,7 @@ bool snakeclass::collision()
 	
 	for(int i=2; i<snake.size(); i++)
 	{
-		if(snake[0].x== snake[i].x && snake[0].y== snake[i].y) // he gave it zero =================================================
+		if(snake[0].x== snake[i].x && snake[0].y== snake[i].y) //  =================================================
 			return true;
 	}
 	// collsion with food
