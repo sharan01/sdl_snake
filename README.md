@@ -17,3 +17,5 @@ open terminal and execute below commands
 ### requirements 
 
 libsdl and libsdl_ttf 
+
+c++ 11 compiler 
