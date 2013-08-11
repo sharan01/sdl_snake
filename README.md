@@ -1,4 +1,4 @@
-SDL Snake
+### SDL Snake
 
 ### installation
 
@@ -12,3 +12,8 @@ open terminal and execute below commands
 
 >`./a.out`
 
+
+
+### requirements 
+
+libsdl and libsdl_ttf 
