@@ -8,3 +8,4 @@ installation
 `g++ *.cpp -lSDL -lSDL_ttf -std=c++0x`
 
 `./a.out`
+`lib/github/markups.rb`
